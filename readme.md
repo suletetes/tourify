@@ -21,12 +21,12 @@ It features RESTful APIs, server-side rendered pages, Stripe payments, authentic
 
 Screenshots (from `showcaseImages/`):
 
-|                              Tours                             |                                   Tour Details (1)                                  |
-| :------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+|                              Tours                             |                                   Tour Detail (1)                                   |
+| :------------------------------------------------------------: |:-----------------------------------------------------------------------------------:|
 | <img src="showcaseImages/Tours.png" alt="Tours" width="420" /> | <img src="showcaseImages/tour%20firstview.png" alt="Tour first view" width="420" /> |
 
-|                                      Details (2)                                      |                                     Details (3)                                     |                                      Details (4)                                      |
-| :-----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+|                                    Tour Detail (2)                                    |                                   Tour Detail (3)                                   |                                    Tour Detail (4)                                    |
+|:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
 | <img src="showcaseImages/tour%20secondView.png" alt="Tour second view" width="300" /> | <img src="showcaseImages/tour%20thirdView.png" alt="Tour third view" width="300" /> | <img src="showcaseImages/tour%20fourthView.png" alt="Tour fourth view" width="300" /> |
 
 |                              Login                             |                               Profile                              |
